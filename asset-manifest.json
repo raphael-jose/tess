@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tess/static/css/main.0a890a6a.css",
+    "main.js": "/tess/static/js/main.d7634fcb.js",
+    "static/js/453.670bc118.chunk.js": "/tess/static/js/453.670bc118.chunk.js",
+    "index.html": "/tess/index.html",
+    "main.0a890a6a.css.map": "/tess/static/css/main.0a890a6a.css.map",
+    "main.d7634fcb.js.map": "/tess/static/js/main.d7634fcb.js.map",
+    "453.670bc118.chunk.js.map": "/tess/static/js/453.670bc118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a890a6a.css",
+    "static/js/main.d7634fcb.js"
+  ]
+}
